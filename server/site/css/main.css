@@ -37,7 +37,7 @@ body {
 .feed-item {
   border: 1px solid #DADADA;
   padding: 20px;
-  font-family: Aileron-Light;
+  font-family: 'aileronlight';
   font-size: 22px;
   color: #303030;
   letter-spacing: 0.2px;
@@ -66,14 +66,14 @@ body {
   margin-right: auto;
   background: #FFF;
   padding: 3px;
-  font-family: Aileron-Bold;
+  font-family: 'aileronbold';
   font-size: 10px;
   color: #000000;
   line-height: 12px;
 }
 
 .hashtag {
-  font-family: Aileron-Bold;
+  font-family: 'aileronbold';
   font-size: 12px;
   color: #F5A623;
   line-height: 15px;
