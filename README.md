@@ -45,8 +45,8 @@ To run the app, Postgres must be installed with proper role set up. Follow the d
 
 #### If Postgres is not Installed ####
 1. Install brew (http://brew.sh/)
-2. Then type command "brew update".
-3. Then type command "brew install postgres".
+2. Then type command `brew update`.
+3. Then type command `brew install postgres`.
 
 #### Run Postgres ####
 1. Install Postgres.app http://postgresapp.com/
