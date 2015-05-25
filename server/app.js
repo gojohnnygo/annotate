@@ -20,9 +20,7 @@ var media = require('./api/media/controller');
 /**
  * Static routes.
  */
-app.use(express.static(__dirname + '/site'));
-
-app.get('/', function(req, res) { res.sendFile(path.join(__dirname + '/site/index.html')); });
+app.use('/', express.static(path.join(__dirname, '/site')));
 
 /**
  * API routes.
